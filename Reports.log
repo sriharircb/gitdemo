@@ -1,0 +1,65 @@
+2020-02-21 12:56:56 FATAL Reports:178 - exception in method
+2020-02-21 12:56:56 FATAL Reports:178 - exception in method
+2020-02-21 12:56:56 ERROR Reports:175 - login is failed
+2020-02-21 12:57:02 INFO  Reports:172 - admin  element pased sucessfully
+2020-02-21 12:57:02 INFO  Reports:172 - manager  element pased sucessfully
+2020-02-21 12:57:03 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:57:32 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:57:34 INFO  Reports:172 - Please identify yourself  value and  Please identify yourself  values are matching
+2020-02-21 12:57:34 INFO  Reports:172 - logged out sucessfully 
+2020-02-21 12:58:07 FATAL Reports:178 - exception in method
+2020-02-21 12:58:07 FATAL Reports:178 - exception in method
+2020-02-21 12:58:07 ERROR Reports:175 - login is failed
+2020-02-21 12:58:11 INFO  Reports:172 - admin  element pased sucessfully
+2020-02-21 12:58:11 INFO  Reports:172 - manager  element pased sucessfully
+2020-02-21 12:58:11 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:58:25 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:58:27 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:58:30 INFO  Reports:172 - hhhh  element pased sucessfully
+2020-02-21 12:58:30 INFO  Reports:172 - ll  element pased sucessfully
+2020-02-21 12:58:30 INFO  Reports:172 - first.last@sg.com  element pased sucessfully
+2020-02-21 12:58:30 INFO  Reports:172 - firstlast  element pased sucessfully
+2020-02-21 12:58:31 INFO  Reports:172 - Mercury  element pased sucessfully
+2020-02-21 12:58:31 INFO  Reports:172 - Mercury  element pased sucessfully
+2020-02-21 12:58:31 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:58:33 INFO  Reports:172 - ll, hhhh  value and  ll, hhhh  values are matching
+2020-02-21 12:58:33 INFO  Reports:172 - user created sucessfully
+2020-02-21 12:58:33 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:58:36 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:58:40 INFO  Reports:172 - ll, hhhh  value and  ll, hhhh  values are matching
+2020-02-21 12:58:40 INFO  Reports:172 - user failed to delete
+2020-02-21 12:58:41 INFO  Reports:172 - sucessfully clicked
+2020-02-21 12:58:43 INFO  Reports:172 - Please identify yourself  value and  Please identify yourself  values are matching
+2020-02-21 12:58:43 INFO  Reports:172 - logged out sucessfully 
+2020-02-24 04:16:18 INFO  Reports:172 - admin  element pased sucessfully
+2020-02-24 04:16:19 INFO  Reports:172 - manager  element pased sucessfully
+2020-02-24 04:16:19 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:16:23 INFO  Reports:172 - Enter Time-Track  value and  Enter Time-Track  values are matching
+2020-02-24 04:16:23 INFO  Reports:172 - login is sucessfull
+2020-02-24 04:16:24 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:16:26 INFO  Reports:172 - Please identify yourself  value and  Please identify yourself  values are matching
+2020-02-24 04:16:26 INFO  Reports:172 - logged out sucessfully 
+2020-02-24 04:16:45 INFO  Reports:172 - admin  element pased sucessfully
+2020-02-24 04:16:45 INFO  Reports:172 - manager  element pased sucessfully
+2020-02-24 04:16:45 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:16:49 INFO  Reports:172 - Enter Time-Track  value and  Enter Time-Track  values are matching
+2020-02-24 04:16:49 INFO  Reports:172 - login is sucessfull
+2020-02-24 04:16:52 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:16:54 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:16:56 INFO  Reports:172 - hhhh  element pased sucessfully
+2020-02-24 04:16:56 INFO  Reports:172 - ll  element pased sucessfully
+2020-02-24 04:16:57 INFO  Reports:172 - first.last@sg.com  element pased sucessfully
+2020-02-24 04:16:57 INFO  Reports:172 - firstlast  element pased sucessfully
+2020-02-24 04:16:57 INFO  Reports:172 - Mercury  element pased sucessfully
+2020-02-24 04:16:57 INFO  Reports:172 - Mercury  element pased sucessfully
+2020-02-24 04:17:17 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:17:19 INFO  Reports:172 - ll, hhhh  value and  ll, hhhh  values are matching
+2020-02-24 04:17:20 INFO  Reports:172 - user created sucessfully
+2020-02-24 04:17:20 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:17:22 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:17:26 FATAL Reports:178 - exception in method
+2020-02-24 04:17:26 FATAL Reports:178 - exception in method
+2020-02-24 04:17:26 ERROR Reports:175 - user sucessfully to deleted
+2020-02-24 04:17:27 INFO  Reports:172 - sucessfully clicked
+2020-02-24 04:17:29 INFO  Reports:172 - Please identify yourself  value and  Please identify yourself  values are matching
+2020-02-24 04:17:29 INFO  Reports:172 - logged out sucessfully 
