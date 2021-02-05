@@ -156,4 +156,9 @@ public class AppDependentMethods extends Driver_Script
 			AppInd.WriteResult("exception", "exception in method");
 		}
 	}
+	
+	public void close()
+	{
+		
+	}
 }
