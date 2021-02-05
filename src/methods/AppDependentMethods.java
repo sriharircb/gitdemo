@@ -19,7 +19,7 @@ public class AppDependentMethods extends Driver_Script
 			
 		}catch (Exception e)
 		{
-			AppInd.WriteResult("exception", "exception in method");
+			AppInd.WriteResult("exception", "exception in navigateurl");
 		}
 	}
 
@@ -155,5 +155,10 @@ public class AppDependentMethods extends Driver_Script
 		{
 			AppInd.WriteResult("exception", "exception in method");
 		}
+	}
+	
+	public void close()
+	{
+		
 	}
 }
