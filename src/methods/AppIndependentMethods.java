@@ -190,5 +190,10 @@ public class AppIndependentMethods extends Driver_Script
 			log = null;
 		}
 	}
+	
+	public void kiranHalagi()
+	{
+		System.out.println("kiran halagi code");
+	}
 
 }
